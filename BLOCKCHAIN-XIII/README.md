@@ -85,7 +85,7 @@ React Dashboard  ←  polls /api every 5s
 
 ```
 Hi                              → Register / show commands
-1234                            → Enter PIN (required every 10 mins)
+XXXX                          → Enter PIN (required every 10 mins)
 Deposit 10 HELA                 → Fund your account
 Send 5 HELA to +91XXXXXXXXXX    → Transfer to another user
 Send 5 HELA to Rahul            → Transfer using saved contact
@@ -120,7 +120,7 @@ Open dashboard                  → Get dashboard link
 
 ## 📡 Smart Contract
 
-**Contract Address (Hela Testnet)**: `0x9EF05bB79358e602b21575204F2EF6dC310E1b1D`
+**Contract Address (Hela Testnet)**: `0x9EF05bB79358e602b21575204F2EF6dC310E1XXX`
 
 ### Functions
 
@@ -238,7 +238,7 @@ npx vercel
 TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxx
 TWILIO_AUTH_TOKEN=xxxxxxxxxxxxxxxx
 TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
-CONTRACT_ADDRESS=0x9EF05bB79358e602b21575204F2EF6dC310E1b1D
+CONTRACT_ADDRESS=0x9EF05bB79358e602b21575204F2EF6dC310E1XXX
 HELA_RPC=https://testnet-rpc.helachain.com
 ENCRYPTION_KEY=your_64_char_hex_key
 NODE_ENV=development
@@ -277,7 +277,7 @@ VITE_API_URL=http://localhost:3001/api
 
 ## 👥 Team
 
-**BLOCKCHAIN-XIII** · HackJKLU v5.0
+TERMINAL STTACKERS
 
 ---
 
